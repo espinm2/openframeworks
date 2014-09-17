@@ -10,7 +10,7 @@
 #include <sstream>
 
 // Constant variables
-const bool    BOUNDED = false;
+const bool    BOUNDED = true;
 const double  MIN_AMP = 0.001;
 const int     PART_RADIUS = 4;
 const int     CLUSTER_SIZE = 10;
